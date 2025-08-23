@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# virtualenvs
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# Node modules / local files
+node_modules/
+
+
