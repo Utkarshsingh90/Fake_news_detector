@@ -1,24 +1,17 @@
-# Python cache
-__pycache__/
-*.py[cod]
-*.class
 
-# virtualenvs
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual env
 .venv/
 env/
 venv/
 
-# Jupyter
-.ipynb_checkpoints
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# logs
-*.log
-
-# Node modules / local files
-node_modules/
-
-
+# Colab / Jupyter
+.ipynb_checkpoints/
