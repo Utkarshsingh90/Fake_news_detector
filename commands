@@ -2,10 +2,3 @@ python -m venv .venv
 .\.venv\Scripts\Activate
 pip install -r requirements.txt
 streamlit run app.py
-git config --global user.name "Utkarshsingh90"
-git init
-git add .
-git commit -m "Initial commit — Streamlit app for Fake News Detector"
-git branch -M main
-git remote add origin https://github.com/Utkarshsingh90/Fake_news_detector.git
-git push -u origin main
