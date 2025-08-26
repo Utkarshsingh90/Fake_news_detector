@@ -8,11 +8,11 @@ This project aims to classify news articles as **"Fake"** or **"Real"** using va
 
 The final model is deployed as a user-friendly web application where you can classify single news articles or upload a CSV file for batch predictions.  
 
-🔗 **Live Demo**: [Fake News Detector on Hugging Face]()  
+🔗 **Live Demo**: [Fake News Detector on Hugging Face](https://huggingface.co/spaces/Utkarsh524/Fake_news_detector_models)  
 
 ### Application Interface  
-<!-- Replace with a URL to your app's screenshot -->
-*(Screenshot Placeholder – Add your app screenshot here)*
+![Homepage Screenshot](homepage.png)
+
 
 ---
 
