@@ -65,10 +65,10 @@ The dataset is a combination of two CSV files:
 
 | Model                   | Training Accuracy |
 |--------------------------|------------------|
-| Logistic Regression      | 99.1%            |
-| Naive Bayes              | 95.2%            |
-| Random Forest            | 100%             |
-| Support Vector Machine   | 99.9%            |
+| Logistic Regression      | 98.81%            |
+| Naive Bayes              | 93.57%            |
+| Random Forest            | 99.57%             |
+| Support Vector Machine   | 99.54%            |
 
 📌 **Note on SVM**:  
 - SVM achieved high accuracy but training was computationally **slower** due to quadratic complexity **O(n²)** when computing pairwise relationships between data points.  
