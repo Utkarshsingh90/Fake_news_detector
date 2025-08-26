@@ -21,7 +21,6 @@ import gdown
 MODEL_DIR = Path(__file__).parent.joinpath("models")
 MODEL_DIR.mkdir(exist_ok=True)
 
-# 🔴 Replace with your actual Google Drive file IDs
 MODEL_FILES = {
     "logistic_model.pkl": "1KM3gaJoIjv3qYD6wJq-Y70zjdHzotfTO",
     "naive_model.pkl": "1jbguELIRqHe_EvU4j3coe_lI5fWDFgV9",
