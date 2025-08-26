@@ -93,11 +93,11 @@ The dataset is a combination of two CSV files:
 
 ## 📂 Repository Structure
 .
-├── Fake_news_detector.ipynb # Jupyter Notebook with preprocessing & training
-├── app.py # Streamlit web app script
-├── requirements.txt # Python dependencies
-├── models/ # (Not in repo) – store downloaded trained models
-└── README.md # Project documentation (this file)
+- Fake_news_detector.ipynb # Jupyter Notebook with preprocessing & training
+-  app.py # Streamlit web app script
+- requirements.txt # Python dependencies
+- models/ # (Not in repo) – store downloaded trained models
+- README.md # Project documentation (this file)
 
 
 ---
